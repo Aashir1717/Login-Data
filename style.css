@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to bottom, #0f0c29, #302b63,  #24243e);
+}
+.main{
+    width: 350px;
+    height: 500px;
+    background: purple;
+    overflow: hidden;
+    background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fgojo-laptop-wallpapers%2F&psig=AOvVaw0o3ISlbb3x_tbnMh7J9kuU&ust=1761058335065000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiTpNWDs5ADFQAAAAAdAAAAABAM) no-repeat;
+}
